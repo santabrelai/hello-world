@@ -1,5 +1,5 @@
 # hello-world
 First repository
 
-Hello, this is my first time trying to use github.
-Nice to meeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeet you.
+Hello world, couldn't imagine it took me three years to get here.
+Definitely a long process, but I guess it won't take so long next time.
